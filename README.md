@@ -24,10 +24,22 @@ The following tools were developed for our paper
 In order to enable the reproduction of our ﬁndings, we make the raw data of our measurements as well as the analysis scripts and supplementary ﬁles publicly available within this repository.
 
 0. Repository Overview
-* tbd
+* The file ```analysis.ipynb``` is the analysis scripts for the ```goodput``` and ```web performance``` measurements
+* The folder ```dataset``` contains the datasets which are provided as csv files
 
 1. Dataset Overview
-* tbd
+* The files ```goodput_1s_bins.csv``` and ```goodput_100ms_bins.csv``` in the ```dataset``` folder contain the aggregated goodput measurement data in 1s and 100ms bins
+* The file ```web_performance.csv``` in the ```dataset``` folder contains the web performance measurement data
+* All files contain their respective data over all measurement runs for all tested combinations of orbit (`leo` or `geo`), transport protocol (`quic` or `tcp`), Performance Enhancing Proxy (`true` or `false`), initial window (`10,10,10,10` or `10,100,100,10`), and packet loss rate (`0` or `0.01` or `0.1` or `1` %)
+
+2. Preparations
+* Clone this repository to a machine running ```Jupyter Notebook``` or ```JupyterLab```
+
+3. Goodput
+* Run the Jupyter Notebook ```goodput.ipynb```
+
+4. Web Performance
+* Run the Jupyter Notebook ```web_performance.ipynb```
 
 ---
 
