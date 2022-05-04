@@ -5,7 +5,7 @@ Technical University of Munich
 
 [IFIP Networking 2022](https://networking.ifip.org/2022/), June 13&ndash;16, 2022.
 
-[Paper Arxiv &rarr;] TBA
+[Paper Arxiv &rarr;] https://arxiv.org/abs/2205.01554
 
 ---
 
