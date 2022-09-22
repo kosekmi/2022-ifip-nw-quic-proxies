@@ -35,11 +35,8 @@ In order to enable the reproduction of our ﬁndings, we make the raw data of ou
 2. Preparations
 * Clone this repository to a machine running ```Jupyter Notebook``` or ```JupyterLab```
 
-3. Goodput
-* Run the Jupyter Notebook ```goodput.ipynb```
-
-4. Web Performance
-* Run the Jupyter Notebook ```web_performance.ipynb```
+3. Analysis
+* Run the Jupyter Notebook ```analysis.ipynb```
 
 ---
 
