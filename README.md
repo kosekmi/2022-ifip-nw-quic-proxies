@@ -7,6 +7,8 @@ Technical University of Munich
 
 [Paper Arxiv &rarr;] https://arxiv.org/abs/2205.01554
 
+[Paper IEEEXplore &rarr;] https://doi.org/10.23919/IFIPNetworking55013.2022.9829773
+
 ---
 
 ## Tools
