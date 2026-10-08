@@ -1,0 +1,14 @@
+The CSV datasets in this directory are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+You may share and adapt these datasets, including for commercial purposes, as
+long as you provide appropriate attribution, link to the license, and indicate
+if changes were made. The full license terms are available at:
+
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Suggested attribution:
+
+Mike Kosek, Hendrik Cech, Vaibhav Bajpai, and Jörg Ott, “Exploring Proxying
+QUIC and HTTP/3 for Satellite Communication,” IFIP Networking 2022,
+https://doi.org/10.23919/IFIPNetworking55013.2022.9829773. Dataset: 2022-ifip-nw-quic-proxies.

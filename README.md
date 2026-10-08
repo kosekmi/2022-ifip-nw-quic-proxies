@@ -42,6 +42,13 @@ In order to enable the reproduction of our ﬁndings, we make the raw data of ou
 
 ---
 
+## Licenses
+
+The analysis notebook is licensed under the [MIT License](LICENSE).
+The CSV datasets in ```dataset``` are licensed under [CC BY 4.0](dataset/LICENSE).
+
+---
+
 ## Contact
 
 Please feel welcome to contact the authors for further details.
